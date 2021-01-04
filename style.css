@@ -47,7 +47,7 @@ section{
 }
 .expriences-area .half-width{
     box-shadow: 10px 10px 30px rgb(34, 31, 31);
-    height: 80%;
+    height: 70%;
     padding-right:5px;
 }
 .expriences-area{
@@ -64,6 +64,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+    margin-left: 6%;
 }
 
 footer p{
